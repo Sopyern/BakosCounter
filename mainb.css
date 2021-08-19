@@ -1,0 +1,65 @@
+body {
+  background-color: #d1d0dfaf;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.selected {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom: 2px solid #c3a709;
+  font-size: 20px;
+}
+.nav-wrapper {
+  background-color: #050416;
+}
+
+ul {
+  font-family: "Times New Roman", Times, serif;
+}
+ul li a:hover {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom: 2px solid #c3a709;
+  font-size: 14px;
+}
+ul li a {
+  font-size: 16px;
+}
+
+.footer-copyright {
+  text-align: center;
+  background-color: #080622;
+  color: #d3caa2a6;
+}
+/*body style here*/
+
+.card img {
+  position: relative;
+  top: 0;
+  left: 50%;
+  margin-left: -36px;
+}
+.container-fluid {
+  background-image: url("img/vcode.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+div#fluid-text {
+  position: absolute;
+  text-align: center;
+  color: #10094b;
+  margin-top: 80px;
+  left: 50%;
+  margin-left: -250px;
+}
+#fluid-text p {
+  font-size: 24px;
+}
+.card-content p {
+  color: rgb(121, 116, 116);
+}
+@media screen and (min-width: 700px) {
+  .card-content {
+    margin-top: -50px;
+  }
+}

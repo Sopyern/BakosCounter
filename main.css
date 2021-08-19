@@ -1,0 +1,32 @@
+body {
+  color: rgb(6, 11, 43);
+}
+h1 {
+  font-size: 200px;
+}
+.card {
+  margin: 20px auto 0 auto;
+  background-color: rgb(199, 201, 209);
+  width: 700px;
+}
+.btn {
+  margin-top: 5px;
+}
+.button {
+  text-align: center;
+}
+ul {
+  text-align: center;
+}
+ul li {
+  display: inline;
+  margin: 0 20px;
+}
+ul li a {
+  font-size: 18px;
+  color: rgb(6, 11, 43);
+  font-weight: bolder;
+}
+a:hover {
+  color: rgb(103, 114, 185);
+}
