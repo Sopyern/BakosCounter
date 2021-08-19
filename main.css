@@ -19,7 +19,7 @@ ul {
 }
 ul li {
   display: inline;
-  margin: 0 8px;
+  margin: 0 4px;
 }
 ul li a {
   font-size: 12px;
