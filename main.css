@@ -19,10 +19,10 @@ ul {
 }
 ul li {
   display: inline;
-  margin: 0 4px;
+  margin: 0 2px;
 }
 ul li a {
-  font-size: 12px;
+  font-size: 8px;
   color: rgb(6, 11, 43);
   font-weight: bolder;
 }
