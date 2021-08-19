@@ -44,13 +44,9 @@ ul li a {
   background-size: cover;
   min-height: 300px;
 }
-div#fluid-text {
-  position: absolute;
+fluid-text {
   text-align: center;
   color: #10094b;
-  margin-top: 80px;
-  left: 50%;
-  margin-left: -250px;
 }
 #fluid-text p {
   font-size: 24px;
